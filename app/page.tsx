@@ -30,7 +30,7 @@ export default function Page() {
               <span className="h-px w-8 bg-primary" /> Full-Stack Developer
             </p>
             <h1 className="max-w-3xl text-5xl font-semibold leading-[0.98] tracking-[-0.06em] sm:text-7xl lg:text-[6.6rem]">
-              Building practical software for the web.
+              Full-Stack Developer
             </h1>
             <p className="mt-8 max-w-xl text-base leading-7 text-muted-foreground sm:text-lg">
               I build web applications and work with Java and JavaScript. I have experience with full-stack development, modern web technologies, and building practical software projects.
